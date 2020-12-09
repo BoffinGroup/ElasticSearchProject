@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "8OkKw7jh2JkaAw5aYqViPFlVj46b/tQwHsZznA9OPAtY7O57EoRotIbQiVHjKyRJ+dO+IuQil+7GqhNgrMyf0Q==",
+  "success": true,
+  "projectFilePath": "C:\\CHIJIOKE\\Boffins\\ElasticSearchProject\\ElasticSearchProject\\ElasticSearchProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chijioke.madekwe\\.nuget\\packages\\elasticsearch.net\\7.10.1\\elasticsearch.net.7.10.1.nupkg.sha512",
+    "C:\\Users\\chijioke.madekwe\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
+    "C:\\Users\\chijioke.madekwe\\.nuget\\packages\\nest\\7.10.1\\nest.7.10.1.nupkg.sha512",
+    "C:\\Users\\chijioke.madekwe\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\chijioke.madekwe\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
